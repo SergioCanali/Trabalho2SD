@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BerkleyClient/BerkleyClient.csproj" />
+  <Project Path="BerkleyServer/BerkleyServer.csproj" />
+</Solution>
